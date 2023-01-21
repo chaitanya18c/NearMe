@@ -201,4 +201,4 @@ The Veerattaneswara Eswaran Temple is
 
 
 ## Result:
-The program for implementing image map is executed Successfully.
+The program for implementing image map is executed successfully.
